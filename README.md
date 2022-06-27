@@ -1,4 +1,4 @@
-name: $(BuildDefinitionName)_$(date:yyyyMMdd)$(rev:.r)
+name: $(sai)_$(date:20220627)$(rev:.r)
  
 trigger: none
  
